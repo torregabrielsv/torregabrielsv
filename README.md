@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @torregabrielsv
-- 👀 I’m interested in hiking, hanging out with my labrador Petunia 🌺, and traveling Central America where I live.
+- 👀 I’m interested in hiking, hanging out with my labrador Petunia 🌺, and traveling Central America.
 - 🌱 I’m currently learning Net+, Sec+, SOC.
 - 💞️ I’m looking to collaborate on:
 
