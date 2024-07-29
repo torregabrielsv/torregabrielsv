@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @torregabrielsv
 - 👀 I’m interested in hiking, hanging out with my labrador Petunia 🌺, and traveling Central America.
-- 🌱 I’m currently learning Net+, Sec+, SOC.
+- 🌱 I’m currently learning ITF+, A+, Net+, CCNA, Sec+, SOC Analyst, IT Professional.
 - 💞️ I’m looking to collaborate on:
 
 - Incident Response Playbook Creation and Improvement
